@@ -1,7 +1,7 @@
 # manipuri-sentiment-analysis
 Sentiment Analysis on Manipuri Language.
 
-This work is done in 2017 during my BTech second year. 
+This work is done in 2018 during my BTech second year. 
 
 The dataset contains 4000 sentiment labeled social media comments in manipuri language mainly from youtube videos.
 
